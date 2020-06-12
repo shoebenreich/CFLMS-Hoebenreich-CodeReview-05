@@ -1,0 +1,56 @@
+array = `[
+	{
+		"ID": 0,
+		"title":"Interstellar",
+		"year":2014,
+		"genre":"Sci-Fi",
+		"description":"A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+		"image": "./img/interstellar.jpg",
+		"likes" : 0
+	},
+	{
+		"ID": 1,
+		"title":"Inception", 
+		"year":2010,
+		"genre":"Sci-Fi",
+		"description":"A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+		"image": "./img/inception.jpg",
+		"likes" : 0
+	},
+	{
+		"ID": 2,
+		"title":"Deadpool", 
+		"year":2016,
+		"genre":"Comedy",
+		"description":"A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.",
+		"image": "./img/deadpool.jpg",
+		"likes" : 0
+	},
+	{
+		"ID": 3,
+		"title":"Forrest Gump", 
+		"year":1994,
+		"genre":"Drama",
+		"description":"The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+		"image": "./img/forrest_gump.jpg",
+		"likes" : 0
+	},
+	{
+		"ID": 4,
+		"title":"The Silence of the Lambs", 
+		"year":1991,
+		"genre":"Thriller",
+		"description":"A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+		"image": "./img/the_silence_of_the_lambs.jpg",
+		"likes" : 0
+	},
+	{
+		"ID": 5,
+		"title":"How to Train Your Dragon", 
+		"year":2010,
+		"genre":"Animation",
+		"description":"A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+		"image": "./img/how_to_train_your_dragon.jpg",
+		"likes" : 0
+	}
+]`
